@@ -5,6 +5,8 @@ import shapes.Square;
 import shapes.Triangle;
 import shapes.Circle;
 
+// Developed by Neo802
+
 public class Main {
 
     public static void main(String[] args) {
